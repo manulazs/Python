@@ -1,10 +1,3 @@
-
-
-print("Script executado com sucesso!")
-
-
-print("Inteiro:", inteiro)
-
 #Ponto Flutuante (float): Números reais, que têm uma parte decimal.
 flutuante = 42.0
 print("Flutuante:", flutuante)
