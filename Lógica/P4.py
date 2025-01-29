@@ -376,6 +376,7 @@ for palavra in palavras:
 
 # Exemplo de loops aninhados
 # Inicia o loop externo, iterando a variável 'i' de 1 a 3 (o valor final 4 é exclusivo)
+j = 1
 for linha in range(1, 4):
     
     # Inicia o loop interno, iterando a variável 'j' de 1 a 3 (o valor final 4 
